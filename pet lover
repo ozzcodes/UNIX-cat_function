@@ -1,0 +1,11 @@
+Oneko is a little fun command that will change your regular cursor into a mouse and creates a curious little cat who will chase your cursor once you move it. It’s not limited to just the terminal. You can keep on working while the cat chases the cursor.
+Install Oneko with this command:
+
+sudo apt install oneko
+Run it with this command:
+
+oneko
+In case you want a dog instead of a cat, type:
+
+oneko -dog
+There are a few more types of cats available. You can get that information by using oneko –help. To stop it, use Ctrl+C.
